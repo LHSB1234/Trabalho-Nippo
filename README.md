@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido para a feira de profissões do Colégio Nippo em 2022. Ele tem o objetivo de apresentar informações sobre três áreas de atuação no campo da tecnologia: Ciência da Computação, Engenharia de Computação e Sistemas de Informação. Utilizando HTML, CSS e links externos, o site traz uma interface simples e funcional para os visitantes navegarem entre as opções.
 
+**O projeto está hospedado no Vercel e pode ser acessado [aqui]([https://seu-projeto.vercel.app](https://trabalho-2.vercel.app/)).**
+
 ## Funcionalidades
 
 - **Página Inicial**: Apresenta uma introdução à feira e opções de navegação.
@@ -23,7 +25,8 @@ Este projeto foi desenvolvido para a feira de profissões do Colégio Nippo em 2
 - **HTML5**: Usado para estruturar o conteúdo do site.
 - **CSS3**: Utilizado para estilizar e ajustar o layout responsivo.
 - **Google Fonts**: Fonte "Raleway" para tipografia.
-  
+- **Vercel**: Plataforma de hospedagem para o projeto.
+
 ## Como Acessar
 
 1. Ao abrir o site, os visitantes são apresentados à página inicial, com um botão "Get Started".
